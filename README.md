@@ -1,2 +1,2 @@
 # BDSMP
-Minecarft Mod Pack
+Minecraft Mod Pack
